@@ -1,13 +1,13 @@
-## Hi there 🙋‍♂️
+# Hi there 🙋‍♂️
 
 I'm Kim Ngoc (AJ), an FTU2 student from a business background who's now wandering into the tech world 🤖
 
 I'm still figuring it out — one bug (and one tutorial) at a time.
 
-## A bit about me:
+# A bit about me:
 - Business graduate diving into Tech  
 - Learning SQL, Python and exploring AI/ML
 - Even if I get stuck, I’ll figure it out. Eventually. 🙏
 
-## Why tech?
+# Why tech?
 I started in business, but the more I explored, the more I saw how tech could power up everything. So now, I'm here: learning, experimenting, and building things that (hopefully) work.
