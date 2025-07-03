@@ -5,6 +5,7 @@ I'm Kim Ngoc (AJ), a FTU2 student from a business background who's now wandering
 I'm still figuring it out — one bug (and one tutorial) at a time.
 
 **A bit about me:**
+- Coffee-dependent & semi-functional
 - Business graduate diving into Tech  
 - Learning SQL, Python and exploring AI/ML
 - Even if I get stuck, I'll make sense of it. Eventually. 🙏 
