@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 🙋‍♂️
 
-<!--
-**nkimng-aj/nkimng-aj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Kim Ngoc (AJ), an FTU2 student from a business background who's now wandering into the tech world 🤖
 
-Here are some ideas to get you started:
+I'm still figuring it out — one bug (and one tutorial) at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A bit about me:
+- Business graduate diving into Tech  
+- Learning SQL, Python and exploring AI/ML
+- Even if I get stuck, I’ll figure it out. Eventually. 🙏
+
+## Why tech?
+I started in business, but the more I explored, the more I saw how tech could power up everything. So now, I'm here: learning, experimenting, and building things that (hopefully) work.
