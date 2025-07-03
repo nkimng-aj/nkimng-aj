@@ -1,6 +1,6 @@
 **Hi there**🙋‍♂️
 
-I'm Kim Ngoc (AJ), an FTU2 student from a business background who's now wandering into the tech world 🤖
+I'm Kim Ngoc (AJ), a FTU2 student from a business background who's now wandering into the tech world 🤖
 
 I'm still figuring it out — one bug (and one tutorial) at a time.
 
